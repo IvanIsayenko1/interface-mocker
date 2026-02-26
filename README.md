@@ -1,3 +1,5 @@
+NOTE: THIS APP WAS CRETED BEFORE THE AI BOOM
+
 # InterfaceMocker
 This app generates a JSON object based on a provided TypeScript interface. By analyzing the structure of the interface, it automatically creates a mock object with the appropriate fields and types, streamlining the process of generating test data and simplifying development.
 
